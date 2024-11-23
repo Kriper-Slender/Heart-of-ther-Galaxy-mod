@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: heart_of_the_galaxy
+Specification-Vendor: KriperSlender
+Specification-Version: 1
+Implementation-Title: Heart of  ther Galaxy mod
+Implementation-Version: 0.1-1.20.1
+Implementation-Vendor: KriperSlender
+Implementation-Timestamp: 2024-11-09T16:00:11+0100
+

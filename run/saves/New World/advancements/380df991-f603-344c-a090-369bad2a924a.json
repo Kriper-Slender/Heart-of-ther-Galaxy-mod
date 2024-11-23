@@ -1,0 +1,36 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-11-23 14:13:48 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2024-11-23 14:14:23 +0100",
+      "minecraft:forest": "2024-11-23 14:13:49 +0100",
+      "minecraft:savanna": "2024-11-23 14:14:27 +0100",
+      "minecraft:plains": "2024-11-23 14:14:25 +0100"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_sword": "2024-11-23 14:17:16 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_sword": "2024-11-23 14:17:16 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-11-23 14:27:44 +0100"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

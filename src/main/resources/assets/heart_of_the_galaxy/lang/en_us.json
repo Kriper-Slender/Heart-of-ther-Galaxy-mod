@@ -1,0 +1,20 @@
+{
+  "item.heart_of_the_galaxy.old_book": "Old book",
+  "item.heart_of_the_galaxy.karas": "Karas",
+
+  "item.heart_of_the_galaxy.raw_grain_of_skint": "Raw grain of skint",
+  "item.heart_of_the_galaxy.grain_of_skint": "Grain of skint",
+
+  "item.heart_of_the_galaxy.fine_sword": "Fine Sword",
+
+  "item.heart_of_the_galaxy.skint_infected_flesh": "skint-infected flesh",
+
+  "item.heart_of_the_galaxy.worldwalker_chestplate": "worldwalker_chestplate",
+  "item.heart_of_the_galaxy.worldwalker_leggings": "worldwalker_leggings",
+  "item.heart_of_the_galaxy.worldwalker_boots": "worldwalker_boots",
+
+  "menu.heart_of_the_galaxy.skint_covered_anvil_menu": "Skint covered anvil menu",
+  "block.heart_of_the_galaxy.skint_covered_anvil": "Skint covered anvil",
+  "block.heart_of_the_galaxy.deepslate_avi_sign": "Deepslate Avi sign",
+  "creativetab.Heart_of_the_Galaxy_Tab": "Heart of the Galaxy tab"
+}
